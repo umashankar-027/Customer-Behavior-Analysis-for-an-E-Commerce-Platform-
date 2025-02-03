@@ -21,10 +21,10 @@ This project analyzes customer behavior data to identify trends, patterns, and i
 
 ## Obtained Graphs  
 <img width="583" alt="image" src="https://github.com/user-attachments/assets/21cbcf05-9292-464f-8a34-9d2f6ae742e0" />
-![image](https://github.com/user-attachments/assets/6926efa8-d7b2-46f8-8c34-6fce711cb07f)
-![image](https://github.com/user-attachments/assets/bf494359-d844-4689-9a02-c4ef59989fa1)
-![image](https://github.com/user-attachments/assets/da869302-cacf-4937-895f-021feb1e609b)
-![image](https://github.com/user-attachments/assets/81891357-7154-4b02-b29d-115d4ef7eebd)
+<img width="594" alt="image" src="https://github.com/user-attachments/assets/6ccaba27-4776-484c-a2f3-613304f2e53c" />
+<img width="626" alt="image" src="https://github.com/user-attachments/assets/d0f3c027-a1c8-45f4-aaf0-bddd5aeeac5e" />
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/f8eb9b3c-4244-4d3a-bbf4-590e82070feb" />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/9556aa37-c2b6-46a8-b020-c4b7bbf8733f" />
 
 
 
